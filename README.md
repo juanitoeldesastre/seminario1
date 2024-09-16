@@ -1,13 +1,6 @@
 # SEMINARIO DE COMPLEMENTACIÓN PRÁCTICA I
 
-Este repositorio es parte de un seminario de **Complementación de Prácticas Profesionales** en el campo de la Ingeniería de Software con Inteligencia Artificial. Aquí se recopilan y comparten los trabajos prácticos realizados durante el curso, así como mejoras y experimentos adicionales hechos en casa. El objetivo es consolidar los conocimientos adquiridos y proporcionar ejemplos prácticos de técnicas y herramientas en Machine Learning y Deep Learning.
-
-Aquí encontrarás recursos sobre:
-
-- **Machine Learning** 
-- **Deep Learning**  
-- **Cuadernos hechos en Kaggle**
-- **Python & Java**
+Este repositorio contiene los trabajos prácticos desarrollados durante clases y posteriormente mejorados en casa. Su propósito es ofrecer ejemplos prácticos, recursos útiles, documentación y ejercicios relacionados con **Machine Learning** y **Deep Learning** para **Python** & **Java** asi como **herramientas de inteligencia artificial**. :robot: 🧠
 
 **Senati ... 👇**
 
