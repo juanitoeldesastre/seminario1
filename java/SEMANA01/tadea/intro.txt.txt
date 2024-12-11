@@ -1,0 +1,7 @@
+5.-  Ejercicios para Practicar
+
+1.	Escribe un programa que clasifique números en positivos, negativos y cero (clasificación supervisada).
+2.	Crea un programa que calcule la mediana de un conjunto de datos y lo convierta en información útil.
+3.	Implementa un sistema de regresión lineal para predecir el peso de una persona con base en su altura.
+4.	Diseña un algoritmo de agrupamiento que divida un conjunto de datos en tres clústeres según sus valores.
+5.	Realiza una clasificación multiclase para determinar si una temperatura es "Fría", "Moderada" o "Caliente".

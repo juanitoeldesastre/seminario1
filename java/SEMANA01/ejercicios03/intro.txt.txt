@@ -1,0 +1,4 @@
+3. Clasificación vs. Regresión
+•	Clasificación: Asigna una etiqueta o categoría a los datos (p. ej., "Aprobado" o "Reprobado").
+•	Regresión: Predice valores numéricos continuos (p. ej., predicción de temperatura).
+

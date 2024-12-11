@@ -1,0 +1,2 @@
+Ejemplo 1: Supervisado (Clasificación binaria)
+Ejemplo 2: No Supervisado (Clustering con distancias simples)

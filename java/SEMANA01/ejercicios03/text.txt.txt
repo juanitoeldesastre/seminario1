@@ -1,0 +1,2 @@
+Ejemplo 1: Clasificación (Categorizar edades)
+Ejemplo 2: Regresión (Predecir ingresos en base a experiencia)

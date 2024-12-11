@@ -1,0 +1,3 @@
+2. Datos vs. Información
+•	Datos: Son números, palabras o hechos sin procesar.
+•	Información: Es el significado procesado de los datos.
